@@ -7,6 +7,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
 <h2 style="color: blue; font-size: 40px;" align="center">THIS is tomcat server deployment </h2>
+<h2 style="color: green; font-size: 40px;" align="center">THIS is nexus artifact server deployment </h2>
 	
 	
 	
